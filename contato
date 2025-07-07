@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Contato</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Menu de navegação -->
+  <nav>
+    <ul>
+      <li><a href="index.html">Início</a></li>
+      <li><a href="sobre.html">Sobre mim</a></li>
+      <li><a href="formacao.html">Formação</a></li>
+      <li><a href="contato.html">Contato</a></li>
+    </ul>
+  </nav>
+
+  <!-- Conteúdo da página Contato -->
+  <main>
+    <h1>Contato</h1>
+
+    <p>Você pode entrar em contato comigo pelos seguintes meios:</p>
+
+    <ul>
+      <li><strong>Email:</strong> ludi.gc@trabalho.com</li>
+      <li><strong>Telefone:</strong> (00) 1234-5678</li>
+    </ul>
+
+    <p>Fico à disposição para dúvidas, sugestões ou oportunidades!</p>
+  </main>
+
+  <footer>
+        <p>&copy; 2025 Ludmyla Caldas. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>

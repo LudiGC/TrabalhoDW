@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Formação</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Menu de navegação -->
+  <nav>
+    <ul>
+      <li><a href="index.html">Início</a></li>
+      <li><a href="sobre.html">Sobre mim</a></li>
+      <li><a href="formacao.html">Formação</a></li>
+      <li><a href="portfolio.html">Portfólio</a></li>
+      <li><a href="contato.html">Contato</a></li>
+    </ul>
+  </nav>
+
+  <!-- Conteúdo da página Formação -->
+  <main>
+    <h1>Formação Acadêmica e Idiomas</h1>
+
+    <section>
+      <h2>Formação Acadêmica</h2>
+      <ul>
+        <li><strong>Ensino Médio Completo</strong> – Centro Educacional La Salle</li>
+        <li><strong>Ciências Contábeis</strong> – UniCeub</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Idiomas</h2>
+      <ul>
+        <li>Português – Nativo</li>
+        <li>Inglês – Intermediário</li>
+        <li>Espanhol – Básico</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025. Todos os direitos reservados.</p>
+  </footer>
+
+</body>
+</html>
